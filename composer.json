@@ -22,5 +22,7 @@
   },
   "scripts": {
 
-  }
+  },
+  "bin": ["buscar-cursos.php"]
+
 }
